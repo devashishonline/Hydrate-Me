@@ -27,8 +27,10 @@
 Stay hydrated, stay healthy, and let **Hydrate Me** help you achieve your daily water intake goals!
 
 ## Screenshots
-- ![Screenshot 1](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed.webp)
-- ![Screenshot 2](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(1).webp)
-- ![Screenshot 3](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(2).webp)
-- ![Screenshot 4](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(3).webp)
-- ![Screenshot 5](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(4).webp)
+<p align="center">
+  <img src="https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed.webp" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(1).webp" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(2).webp" alt="Screenshot 3" width="300"/>
+  <img src="https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(3).webp" alt="Screenshot 4" width="300"/>
+  <img src="https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(4).webp" alt="Screenshot 5" width="300"/>
+</p>
