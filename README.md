@@ -27,9 +27,8 @@
 Stay hydrated, stay healthy, and let **Hydrate Me** help you achieve your daily water intake goals!
 
 ## Screenshots
-### Add screenshots of the app
-- ![[Screenshot 1](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed.webp)](#)
-- ![[Screenshot 2](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(1).webp)](#)
-- ![[Screenshot 3](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(2).webp)](#)
-- ![[Screenshot 4](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(3).webp)](#)
-- ![[Screenshot 5](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(4).webp)](#)
+- ![Screenshot 1](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed.webp)
+- ![Screenshot 2](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(1).webp)
+- ![Screenshot 3](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(2).webp)
+- ![Screenshot 4](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(3).webp)
+- ![Screenshot 5](https://github.com/devashishonline/Hydrate-Me/blob/master/Assets/unnamed%20(4).webp)
